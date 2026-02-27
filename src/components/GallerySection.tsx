@@ -4,7 +4,7 @@ import { Card, CardContent } from "@/components/ui/card";
 const projects = [
   {
     id: 1,
-    image: "/images/roopapur.png", 
+    image: "/images/roopapur.jpg", 
     title: "Residential Setup in Varanasi",
     description: "A 5kW system helping a family achieve energy independence.",
   },
@@ -16,7 +16,7 @@ const projects = [
   },
   {
     id: 3,
-    image: "/images/phapha.jpg",
+    image: "/images/phapha.png",
     title: "Rural Electrification",
     description: "Bringing consistent power to remote areas.",
   },
